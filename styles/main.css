@@ -4506,7 +4506,6 @@ Created using IcoMoon - icomoon.io
 
 .card .card-body {
   min-height: 190px;
-  padding-left: 0;
 }
 
 .card[data-background-color="orange"] {
@@ -6897,6 +6896,7 @@ Created using IcoMoon - icomoon.io
   text-align: center;
   color: #fff;
   text-transform: uppercase;
+  padding-left: 0;
 }
 
 /* Education Style */
@@ -6909,6 +6909,7 @@ Created using IcoMoon - icomoon.io
   padding-right: 0;
   text-align: center;
   color: #fff;
+  padding-left: 0;
 }
 
 /* References Style */
